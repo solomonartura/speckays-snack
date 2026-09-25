@@ -1,0 +1,13 @@
+{
+  "name": "speckays-snack",
+  "version": "0.1.0",
+  "main": "App.tsx",
+  "dependencies": {
+    "expo": "~53.0.0",
+    "expo-location": "*",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.0",
+    "react-native-maps": "*"
+  }
+}
